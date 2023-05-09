@@ -1634,7 +1634,7 @@ a {
 }
 .services-block__body {
   position: relative;
-  background: red;
+  background: #FBFBFB;
 }
 .services-block__body::after {
   position: absolute;
